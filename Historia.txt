@@ -6,4 +6,4 @@ Mañana los enfocaremos en su area laboral.
 
 agrego un texto mas para verificar git Ohhhgit status
 
-Se le olvidad las cosasad.
+Se le olvidad las cosas.
